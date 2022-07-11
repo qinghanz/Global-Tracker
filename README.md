@@ -8,4 +8,4 @@ In the project directory, you can run:
 
 ### `npm install` && `npm run build` && `npm run start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
